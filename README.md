@@ -41,9 +41,13 @@ If it does take longer, feel free to take your time, but it is not our intention
 - [ ] The service is public available via `https`
 - [ ] There is a **very minimalistic** front-end deomnstrating the functionality of the user service, it does not need to be pretty at all.
 
-## Questions worth considering
+## Things worth considering
 
 - Under what circumstances will your service fail to work?
+- What should happen if two users sign up with the same username?
+- How should the passwords be encoded?
+- How can I protect against **brute force** attacks?
+- What should a generated token look like? 
 - What happens with a valid token if the associated user has been deleted?
 - Can a user have multiple tokens?
 - Could this be implemented in a more simple way?
