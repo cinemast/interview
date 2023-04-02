@@ -32,14 +32,14 @@ Please make sure that you meet the acceptance criteria. It would be nice to impl
 
 ## Bonus Criteria
 
+- [ ] The service is stored in a private GitHub repository shared with [@cinemast](https://github.com/cinemast)
 - [ ] A token should only be valid for a **configurable** amount of seconds
-- [ ] The service has a valid [Open API](https://www.openapis.org/) description
 - [ ] The service persists the user data and the data is not lost during reboot of the application
-- [ ] The service is stored in a private GitHub repository shaed with [@cinemast](https://github.com/cinemast)
-- [ ] The service has a CI/CD pipeline which automatically builds and tests the service
+- [ ] The service has a valid [Open API](https://www.openapis.org/) description
 - [ ] There are automated integration tests which can be run
+- [ ] The service has a CI/CD pipeline which automatically builds and tests the service
 - [ ] The service can easily be started via a `docker-compose` command
-- [ ] The service is public available on the internet (there are many free options for trial accounts that allow free hosting of your service)
+- [ ] The service is public available on the internet (there are many free options for trial accounts that allow free hosting of your service, we don't expect you to pay for infrastructure of course)
 - [ ] The service is public available via `https`
 - [ ] There is a **very minimalistic** front-end deomnstrating the functionality of the user service, it does not need to be pretty at all.
 
