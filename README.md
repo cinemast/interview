@@ -30,7 +30,7 @@ If it does take longer, feel free to take your time, but it is not our intention
 
 ## Bonus Criteria
 
-- [ ] The service is stored in a private GitHub repository shared with [@cinemast](https://github.com/cinemast)
+- [ ] The service is stored in a **private** GitHub repository shared with [@cinemast](https://github.com/cinemast)
 - [ ] A token should only be valid for a **configurable** amount of seconds
 - [ ] The service persists the user data and the data is not lost during reboot of the application
 - [ ] The service has a valid [Open API](https://www.openapis.org/) description
