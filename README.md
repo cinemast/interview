@@ -11,7 +11,7 @@ If it does take longer, feel free to take your time, but it is not our intention
 
 - The service should implement a JSON REST interface
 - A `User` has a `username` a `password` and a `role` (`admin` or `ordinary`)
-- For `admin` users it should be possible
+- For `admin` users it should be possible to
   - add new users
   - delete existing users
   - update user's passwords
