@@ -3,7 +3,7 @@
 We want you to write a very simple `User` web service. Depending on your experience, the typical effort for this should be **1-8 hour(s)**.
 If it does take longer, feel free to take your time, but it is not our intention to cut off that much free time from you.
 
-- Please use any programming languge / libraries / frameworks that you are **most comfortable** with.
+- Please use any programming language / libraries / frameworks that you are **most comfortable** with.
 - Please make sure that you meet the acceptance criteria. 
 - It would be nice if you implement some of the bonus criteria.
 
