@@ -39,7 +39,7 @@ If it does take longer, feel free to take your time, but it is not our intention
 - [ ] The service can easily be started via a `docker-compose` command
 - [ ] The service is public available on the internet (there are many free options for trial accounts that allow free hosting of your service, we don't expect you to pay for infrastructure of course)
 - [ ] The service is public available via `https`
-- [ ] There is a **very minimalistic** front-end deomnstrating the functionality of the user service, it does not need to be pretty at all.
+- [ ] There is a **very minimalistic** front-end demonstrating the functionality of the user service, it does not need to be pretty at all.
 
 ## Things worth considering
 
