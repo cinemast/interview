@@ -5,7 +5,7 @@ If it does take longer, feel free to take your time, but it is not our intention
 
 Please use any programming languge / libraries / frameworks that you are **most comfortable** with.
 
-Please make sure that you meet the Acceptance Criterias
+Please make sure that you meet the acceptance criteria. It would be nice to implement some of the bonus criteria.
 
 **Hint:** we prefer simple solutions over complex ones.
 
@@ -41,9 +41,12 @@ Please make sure that you meet the Acceptance Criterias
 - [ ] The service can easily be started via a `docker-compose` command
 - [ ] The service is public available on the internet (there are many free options for trial accounts that allow free hosting of your service)
 - [ ] The service is public available via `https`
+- [ ] There is a **very minimalistic** front-end deomnstrating the functionality of the user service, it does not need to be pretty at all.
 
 ## Questions worth considering
 
-- What happens with a valid token if the associated user has been deleted?
 - Under what circumstances will your service fail to work?
+- What happens with a valid token if the associated user has been deleted?
+- Can a user have multiple tokens?
+- Could this be implemented in a more simple way?
 - How big is the deployed application and could it be smaller?
