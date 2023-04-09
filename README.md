@@ -24,7 +24,7 @@ If it does take longer, feel free to take your time, but it is not our intention
 ## Acceptance Criteria
 
 - The service must meet all of the above mentioned requirements
-- There is a `README.md` that documents how to build and run the service
+- There is a `README.md` that documents how to build run and use the service
 - The source code builds and runs
 - There are no errors or crashes
 
